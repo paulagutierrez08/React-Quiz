@@ -1,0 +1,23 @@
+  
+  .increment, .decrement {
+    color: white;
+    font-size: 1.6em;
+    padding: 10px;
+    border-radius: 0.7em;
+    margin-bottom: 1em;
+
+  }
+  .number-count{
+    display: flex;
+    color: rgb(60, 144, 209);
+    flex-direction: column;
+    margin-top: 0.5em;
+  }
+  .increment {
+    background-color: green;
+    margin-left: 1em;
+  }
+  
+  .decrement {
+    background-color: red;
+  }
